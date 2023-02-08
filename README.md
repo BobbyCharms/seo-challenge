@@ -12,6 +12,8 @@ Go to https://github.com/BobbyCharms/seo-challenge to view or download the repo 
 
 For the live website, visit this link: https://bobbycharms.github.io/seo-challenge/
 
+The live page should look like this screenshot: ![](assets/images/homepage-screenshot-README.png)
+
 ## License
 
 N/A
